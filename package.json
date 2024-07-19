@@ -1,0 +1,23 @@
+{
+  "name": "tsc-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tiny-Settlements-Conquests/Tiny-Settlements-Conquests-Core.git"
+  },
+  "keywords": [
+    "catan",
+    "catan-game"
+  ],
+  "author": "Sandro9",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tiny-Settlements-Conquests/Tiny-Settlements-Conquests-Core/issues"
+  },
+  "homepage": "https://github.com/Tiny-Settlements-Conquests/Tiny-Settlements-Conquests-Core#readme"
+}
